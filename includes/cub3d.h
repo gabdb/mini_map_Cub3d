@@ -6,7 +6,7 @@
 /*   By: gnyssens <gnyssens@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/23 17:55:51 by gnyssens          #+#    #+#             */
-/*   Updated: 2025/02/06 15:46:02 by gnyssens         ###   ########.fr       */
+/*   Updated: 2025/02/24 19:21:08 by gnyssens         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,8 +27,8 @@
 
 # define WINDOW_HEIGHT 800
 # define WINDOW_LENGTH 1000
-# define IMAGE_HEIGHT 600
-# define IMAGE_LENGTH 600
+# define IMAGE_HEIGHT 300
+# define IMAGE_LENGTH 300
 # define GRAY 0x808080
 # define PI 3.14159265
 
